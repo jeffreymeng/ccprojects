@@ -1,0 +1,22 @@
+.big{
+  height:150px;
+  width:250px;
+}
+.small{
+  height:75px;
+  width: 125px;
+}
+.blue{
+  background-color:#65f8fc;
+  color:black;
+  text-align:center;
+  text-decoration:underline;
+}
+
+.center{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
