@@ -1,0 +1,25 @@
+
+.big{
+  height:150px;
+  width:250px:
+}
+
+.small{
+height:75px;
+width:125px;
+}
+
+.yellow{
+  background-color:yellow;
+  color:blue;
+  text-align:center;
+  /*centering formula*/
+
+}
+.center{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:10px;
+  margin-bottom:10px;
+}
